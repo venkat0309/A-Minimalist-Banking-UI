@@ -1,4 +1,6 @@
 Project Name: **Bankist - A Minimalist Banking UI**
+
+
 📌 Overview
 Bankist is a modern, minimalist banking web application that provides a seamless and intuitive user experience. This project includes an interactive HTML, CSS, and JavaScript frontend that simulates a digital banking platform with features like smooth page navigation, modal popups, tabbed components, and lazy loading for optimized performance.
 
